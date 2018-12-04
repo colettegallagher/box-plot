@@ -31,3 +31,5 @@ https://www.brighthubpm.com/six-sigma/58254-box-plots-vs-histograms-in-project-m
 https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-frequency-dot-plot/v/comparing-dot-plots-histograms-and-box-plots
 
 https://citoolkit.com/articles/histograms-and-boxplots/
+
+https://seaborn.pydata.org/generated/seaborn.boxplot.html
