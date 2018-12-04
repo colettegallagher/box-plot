@@ -33,3 +33,5 @@ https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-alge
 https://citoolkit.com/articles/histograms-and-boxplots/
 
 https://seaborn.pydata.org/generated/seaborn.boxplot.html
+
+https://jonchar.net/notebooks/matplotlib-styling/
