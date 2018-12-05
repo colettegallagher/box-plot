@@ -4,6 +4,7 @@ Fundamentals Data Analytics - An investigation of the Box Plot Project
 This repository contains an assignment on the Box Plot.  The information is on a jupyter notebook.  Instructions on how to view a Jupyter notebook are below.
 
 The Jupyter notebook contains the following information:<br>
+<br>
 • The history of the box plot and when it should be used.<br>
 • How the box plot can be used.<br>
 • Comparison of the box plot to alternatives.<br>
