@@ -1,37 +1,57 @@
 # box-plot
 Fundamentals Data Analytics - An investigation of the Box Plot Project
 
-# References
-https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.boxplot.html <br>
-http://www.physics.csbsju.edu/stats/box2.html <br>
-https://python-graph-gallery.com/boxplot/ <br>
+This repository contains an assignment on the Box Plot.  The information is on a jupyter notebook.  Instructions on how to view a Jupyter notebook are below.
 
-https://chartio.com/resources/tutorials/what-is-a-box-plot/
+The Jupyter notebook contains the following information:
+• The history of the box plot and when it should be used.
+• How the box plot can be used.
+• Comparison of the box plot to alternatives.
 
-https://en.m.wikipedia.org/wiki/John_Tukey
+## How to view Jupyter Notebook in this Repository
 
-https://en.m.wikipedia.org/wiki/Box_plot
+This repository contains an assignment on a jupyter notebook file.  To open this file in jupyter notebook please follow the following procedure:
 
-https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch12/5214889-eng.htm#tphp
+### Browser
 
-https://www.wellbeingatschool.org.nz/information-sheet/understanding-and-interpreting-box-plots
+Ensure there is a modern browser such as Google Chrome or Moz:lla Firefox installed on your PC
 
-http://www.physics.csbsju.edu/stats/box2.html
+![Google Chrome](https://github.com/colettegallagher/anscombes/blob/master/chrome.JPG)      ![Moz:lla Firefox](https://github.com/colettegallagher/anscombes/blob/master/firefox.JPG)
 
-https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/
+To Download [Google Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI5-T3xezM3gIVRvlRCh2tCwnZEAAYASAAEgLANvD_BwE&gclsrc=aw.ds)<br>
+To Download [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
-https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py
+### Anaconda
 
-https://matplotlib.org/examples/pylab_examples/boxplot_demo.html
+![Anaconda](https://github.com/colettegallagher/anscombes/blob/master/anaconda.JPG)
 
-https://python-graph-gallery.com/boxplot/
+To Download [Anaconda](https://www.anaconda.com/download/)
 
-https://www.brighthubpm.com/six-sigma/58254-box-plots-vs-histograms-in-project-management/
+Anaconda is a piece of software constructed from Python which contains some extra packages.
+Click on the Python 3.6 Version 64 bit installer *Download* button in the top right-hand corner.  Install as a single user.
 
-https://www.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-frequency-dot-plot/v/comparing-dot-plots-histograms-and-box-plots
+This is a very large file so ensure there is a high-speed internet connection before downloading.
+The Anaconda file will be in the downloads folder.  Click on the file and run program to install.
 
-https://citoolkit.com/articles/histograms-and-boxplots/
+### CMDER
 
-https://seaborn.pydata.org/generated/seaborn.boxplot.html
+![CMDER](https://github.com/colettegallagher/anscombes/blob/master/cmder.JPG)
 
-https://jonchar.net/notebooks/matplotlib-styling/
+To download CMDER full version (unzip) [CMDER](http://cmder.net/)
+
+## Assignment
+
+The assignment can be viewed on GITHUB [anscombes](https://github.com/colettegallagher/anscombes/blob/master/anscombes.ipynb)
+
+### Running the Codes
+
+The assignment, in text format, can be found at [anscombes](https://github.com/colettegallagher/anscombes/blob/master/anscombes.ipynb).  
+#### To download and open in jupyter notebook
+
+ - Open CMDER on the start menu
+ - Type 'cd' then space and the destination file on the PC where the file is to be open eg c:/new folder/new file
+ - Type 'Git Pull https://github.com/colettegallagher/anscombes/blob/master/anscombes.ipynb
+   This will pull the file on to the PC from Github
+ - Type 'jupyter notebook' to open jupyter on the PC and the pulled file should be on the notebook
+ 
+
