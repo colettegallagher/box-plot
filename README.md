@@ -9,6 +9,8 @@ The Jupyter notebook contains the following information:<br>
 • How the box plot can be used.<br>
 • Comparison of the box plot to alternatives.<br>
 
+(Note on repository - there was a gitignore file, but it disappeared.  Any sites I visited re recreating required a new file to be open.  I did not want to open a new file as I would have lost my 'commit' history.  This is why there is no gitignore file.  Thank you.)
+
 ## How to view Jupyter Notebook in this Repository
 
 This repository contains an assignment on a jupyter notebook file.  To open this file in jupyter notebook please follow the following procedure:
